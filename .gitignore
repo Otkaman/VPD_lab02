@@ -1,10 +1,12 @@
+*
+!*/
+!*.*
+!Makefile
+
+
 build/
-bin/
 *.o
 *.obj
 *.i
 *.s
 *.exe
-vpd_lab2
-vpd_lab2_O0
-vpd_lab2_O2
